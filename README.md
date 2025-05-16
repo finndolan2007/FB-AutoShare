@@ -1,4 +1,4 @@
-# GRANDPA FB Share Tool
+# KRISANTO FB Share Tool
 
 A web application for automating Facebook post sharing with anti-spam protection.
 
